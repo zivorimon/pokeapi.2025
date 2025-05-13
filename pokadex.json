@@ -1,0 +1,146 @@
+[
+    {
+        "name": "charizard",
+        "id": 6,
+        "height": 17,
+        "weight": 905
+    },
+    {
+        "name": "scovillain",
+        "id": 952,
+        "height": 9,
+        "weight": 150
+    },
+    {
+        "name": "volcanion",
+        "id": 721,
+        "height": 17,
+        "weight": 1950
+    },
+    {
+        "name": "corvisquire",
+        "id": 822,
+        "height": 8,
+        "weight": 160
+    },
+    {
+        "name": "rowlet",
+        "id": 722,
+        "height": 3,
+        "weight": 15
+    },
+    {
+        "name": "bellossom",
+        "id": 182,
+        "height": 4,
+        "weight": 58
+    },
+    {
+        "name": "kakuna",
+        "id": 14,
+        "height": 6,
+        "weight": 100
+    },
+    {
+        "name": "cetitan",
+        "id": 975,
+        "height": 45,
+        "weight": 7000
+    },
+    {
+        "name": "arctovish",
+        "id": 883,
+        "height": 20,
+        "weight": 1750
+    },
+    {
+        "name": "starly",
+        "id": 396,
+        "height": 3,
+        "weight": 20
+    },
+    {
+        "name": "komala",
+        "id": 775,
+        "height": 4,
+        "weight": 199
+    },
+    {
+        "name": "eldegoss",
+        "id": 830,
+        "height": 5,
+        "weight": 25
+    },
+    {
+        "name": "carnivine",
+        "id": 455,
+        "height": 14,
+        "weight": 270
+    },
+    {
+        "name": "victreebel",
+        "id": 71,
+        "height": 17,
+        "weight": 155
+    },
+    {
+        "name": "entei",
+        "id": 244,
+        "height": 21,
+        "weight": 1980
+    },
+    {
+        "name": "marowak",
+        "id": 105,
+        "height": 10,
+        "weight": 450
+    },
+    {
+        "name": "falinks",
+        "id": 870,
+        "height": 30,
+        "weight": 620
+    },
+    {
+        "name": "escavalier",
+        "id": 589,
+        "height": 10,
+        "weight": 330
+    },
+    {
+        "name": "mewtwo",
+        "id": 150,
+        "height": 20,
+        "weight": 1220
+    },
+    {
+        "name": "mewtwo",
+        "id": 150,
+        "height": 20,
+        "weight": 1220
+    },
+    {
+        "name": "pignite",
+        "id": 499,
+        "height": 10,
+        "weight": 555
+    },
+    {
+        "name": "garganacl",
+        "id": 934,
+        "height": 23,
+        "weight": 2400
+    },
+    {
+        "name": "munna",
+        "id": 517,
+        "height": 6,
+        "weight": 233
+    },
+    {
+        "name": "sewaddle",
+        "id": 540,
+        "height": 3,
+        "weight": 25
+    }
+]

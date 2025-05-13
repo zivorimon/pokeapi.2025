@@ -1,0 +1,26 @@
+[
+    {
+        "name": "raikou",
+        "id": 243,
+        "height": 19,
+        "weight": 1780
+    },
+    {
+        "name": "victreebel",
+        "id": 71,
+        "height": 17,
+        "weight": 155
+    },
+    {
+        "name": "mewtwo",
+        "id": 150,
+        "height": 20,
+        "weight": 1220
+    },
+    {
+        "name": "garganacl",
+        "id": 934,
+        "height": 23,
+        "weight": 2400
+    }
+]
