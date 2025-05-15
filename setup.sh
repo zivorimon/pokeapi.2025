@@ -1,11 +1,10 @@
 #!/bin/bash
-# Update system
-sudo apt update -y
-sudo apt install -y python3 python3-pip git
+sudo yum update -y
+sudo yum install -y git python3
 
-# clone git ripo
+# Clone your repo
+git clone https://github.com/YOUR_USERNAME/YOUR_REPO.git /home/ec2-user/pokemon-game
 
-git clone https://github.com/zivorimon/pokeapi.2025/tree/master
-
-# run the game automatic
-echo "cd ~/pokemon-game && python3 user_controller.py"
+# Optional: run something from the repo
+cd /home/ec2-user/pokemon-game
+python3 your_script.py
